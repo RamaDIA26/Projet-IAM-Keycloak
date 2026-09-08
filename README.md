@@ -13,8 +13,8 @@ Docker Desktop installé et en cours d'exécution.
 Installation et Démarrage
 Clonez ce dépôt sur votre machine :
 ```bash
-   git clone <https://github.com/RamaDIA26>
-   cd Projet-IAM-Keycloak
+git clone https://github.com/RamaDIA26/Projet-IAM-Keycloak.git
+cd Projet-IAM-Keycloak
    ```
 Lancez le serveur avec Docker Compose :
 ```bash
